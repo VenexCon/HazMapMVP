@@ -34,7 +34,7 @@ const Navbar = () => {
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-between">
                 <div className="flex-shrink-0">
-                  <a href="/" className="text-white text-2xl font-bold">HazMap</a>
+                  <a href="/" className="text-white text-2xl font-bold">Hazard Map</a>
                 </div>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
